@@ -9,4 +9,4 @@ Spring 2023
 
 See `requirements.txt` for dependency information
 
-To run: `python3 intro_to_python.py`
+To run: `python3 assignment_2.py`
